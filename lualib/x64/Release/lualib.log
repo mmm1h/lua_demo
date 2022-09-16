@@ -1,0 +1,39 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  正在编译...
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+    正在创建库 D:\Work\Lua\lualib\x64\Release\lualib.lib 和对象 D:\Work\Lua\lualib\x64\Release\lualib.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1061 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  lualib.vcxproj -> D:\Work\Lua\lualib\x64\Release\lualib.dll
